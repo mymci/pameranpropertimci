@@ -3,7 +3,7 @@ baseURL = "http://examplesite.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross"
+title = "Pameran Edukasi MCI"
 
 # css plugins
 [[params.plugins.css]]
@@ -40,7 +40,7 @@ weight = 2
 
 [[menu.main]]
 URL = "portfolio"
-name = "Portfolio"
+name = "Event"
 weight = 3
 
 [[menu.main]]
