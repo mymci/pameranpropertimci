@@ -52,7 +52,7 @@ weight = 4
 # default parameters
 [params]
 home = "Home"
-logo = "image/pameranedukasi.png"
+logo = "images/pameranedukasi.png" # use png, jpg, svg or gif format
 # theme color
 theme_color = "#41228e"
 # contact info
