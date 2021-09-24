@@ -31,17 +31,17 @@ link = "plugins/google-map/map.js"
 [[menu.main]]
 URL = "about"
 name = "About"
-weight = 1
+weight = 3
 
 [[menu.main]]
 URL = "blog"
-name = "Blog"
+name = "Exibitor"
 weight = 2
 
 [[menu.main]]
 URL = "portfolio"
 name = "Event"
-weight = 3
+weight = 1
 
 [[menu.main]]
 URL = "contact"
@@ -56,11 +56,12 @@ logo = ""
 # theme color
 theme_color = "#41228e"
 # contact info
-phone = "+880 2544 658 256"
-email = "steve.fruits@email.com"
-address = "125/A, CA Commercial Area, California, USA"
+phone = "+6221 29030 769"
+email = "info@mcimanagement.com"
+address = "Plaza De Lumina A12, Jakarta Barat"
+
 # meta description
-author = "Johnathan Smith"
+author = "MCI Management"
 description = "This is meta description"
 
 # google analytics
@@ -88,7 +89,7 @@ form_action = "#" # contact form works with : https://formspree.io
 
 # google map
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=&#038;types=(cities)&#038;libraries=places&#038;language=en"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
