@@ -5,7 +5,7 @@ banner:
 # about
 about:
   enable: true
-  content: "Welcome to PAMERAN EDUKASI which is organized and being a part of MCI Management. We are a company that engaged in exhibitions, events, design and contractors for more than 10 years in some shopping malls and offices in Jabodetabek areas. One of our main theme is about Education. Normally it is held twice a year in Februari-March and August-October."
+  content: "Welcome to Pameran Edukasi which is organized and being a part of MCI Management. We are a company that engaged in exhibitions, events, design and contractors for more than 10 years in some shopping malls and offices in Jabodetabek areas. One of our main theme is about Education. Normally it is held twice a year in Februari-March and August-October."
   button:
     enable: true
     label: "know more"
