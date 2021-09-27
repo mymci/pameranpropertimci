@@ -1,13 +1,21 @@
 ---
 title: "About"
 description: "This is meta description."
-author_image : "images/about/author.jpg"
-author_signature : "images/about/signature.png"
+author_image: "images/about/author.jpg"
+author_signature: "images/about/signature.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Welcome to PAMERAN EDUKASI which is organized and being a part of MCI Management.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+We are a company that engaged in exhibitions, events, design and contractors for more than 10 years in some shopping malls and offices in Jabodetabek areas.
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+One of our main theme is about Education. Normally it is held twice a year in Februari-March and August-October.
+
+During the exhibition, we are gladly present quality schools and courses, and some educational tools that support children’s learning.
+
+We provide all information about the exhibitors in this website, such as schools from nursery / kindergarten until senior high school, colleges, books and educational toys.
+
+Please explore more below.
+
+Have a nice day.
