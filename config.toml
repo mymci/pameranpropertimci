@@ -39,7 +39,7 @@ name = "Exhibitor"
 weight = 2
 
 [[menu.main]]
-URL = "portfolio"
+URL = "event"
 name = "Event"
 weight = 1
 

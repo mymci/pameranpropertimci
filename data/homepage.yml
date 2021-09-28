@@ -94,7 +94,7 @@ service:
       highlighted: false
 
 # portfolio
-portfolio:
+event:
   enable: true
   title: "Event"
   item_show: 6
@@ -155,7 +155,7 @@ clients_logo_slider:
       URL: "#"
 
 # blog
-blog:
+exhibitor:
   enable: true
   title: "Exhibitor"
   # blog post comes from "content/blog" folder
