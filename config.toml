@@ -34,7 +34,7 @@ name = "About"
 weight = 3
 
 [[menu.main]]
-URL = "blog"
+URL = "exhibitor"
 name = "Exhibitor"
 weight = 2
 
