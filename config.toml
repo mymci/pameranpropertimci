@@ -103,16 +103,14 @@ expire_days = 2
 # social site
 [[params.social]]
 icon = "ti-facebook"
-URL = "#"
+URL = "https://www.facebook.com/MCImanagement/"
 
 [[params.social]]
 icon = "ti-instagram"
-URL = "#"
+URL = "https://www.instagram.com/pameranedukasi/"
 
 [[params.social]]
 icon = "ti-dribbble"
 URL = "#"
 
-[[params.social]]
-icon = "ti-twitter-alt"
-URL = "#"
+
