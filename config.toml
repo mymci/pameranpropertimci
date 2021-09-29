@@ -52,9 +52,11 @@ weight = 4
 # default parameters
 [params]
 home = "Home"
-logo = "images/pameranedukasi.png" # use png, jpg, svg or gif format
+logo = "images/pameranproperti.png" # use png, jpg, svg or gif format
 # theme color
-theme_color = "#41228e"
+theme_color = "#862A5C"
+
+
 # contact info
 phone = "+6221 29030 769"
 email = "info@mcimanagement.com"
