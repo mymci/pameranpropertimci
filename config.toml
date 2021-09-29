@@ -3,7 +3,7 @@ baseURL = "http://examplesite.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Pameran Edukasi MCI"
+title = "Pameran Properti MCI"
 
 # css plugins
 [[params.plugins.css]]
@@ -74,7 +74,7 @@ google_analytics_id = "" # Your ID
 
 
 # copyright
-copyright = "Copyright &copy; 2021 a Theme by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2021 a Theme by [GoHugo](https://gethugothemes.com)"
 
 
 # preloader
