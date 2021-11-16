@@ -1,11 +1,11 @@
 ---
-title: "GLOBAL SEVILLA SCHOOL"
+title: "PAMERAN HOME LIVING EXPO 7"
 date: 2019-05-12T12:14:34+06:00
-image: "images/exhibitor/post-3.jpg"
+image: "images/exhibitor/post-1.jpg"
 description: "This is meta description."
 draft: false
 ---
 
-#### GLOBAL SEVILLA SCHOOL
+#### PAMERAN HOME LIVING EXPO 7
 
-Pameran ITE 2022 Mci Management
+PAMERAN HOME LIVING EXPO 7 METROPOLITAN MALL BEKASI 30 NOV - 12 DES 2021
