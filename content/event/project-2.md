@@ -1,6 +1,6 @@
 ---
 title: "Home Living Expo 7"
-date: 2019-05-12T12:14:34+06:00
+date: "1/1/2019"
 image: "images/event/expometmal8.png"
 client: "MCI Management"
 
