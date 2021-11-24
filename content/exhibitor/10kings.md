@@ -8,4 +8,47 @@ draft: false
 
 #### KINGSPOINT PRIVATE RESIDENCES
 
-PAMERAN HOME LIVING EXPO 7 @METROPOLITAN MALL BEKASI 30 NOV - 12 DES 2021
+"HOME LIVING EXPO"
+Metropolitan Mall Bekasi, 30 November - 12 Desember 2021
+
+
+Kingspoint Private Residences dikembangkan oleh Mandiri Development Group diatas lahan seluas 2,5 Ha menjadikannya hunian berkelas baru di Kota Bekasi.
+
+Nikmati kenyamanan di Kingspoint Private Residences, Hunian strategis di Kota Bekasi..
+
+Letak Kingspoint Private Residences berada di tepi jalan raya Perjuangan Kota Bekasi yang tentunya memudahkan mobilitas Anda bagi yang aktif bepergian ke pusat / luar kota.
+
+Lokasi Kingspoint Private Residences yang strategis membuat anda mudah mengakses :
+√ Pusat Perbelanjaan;
+Summarecon Mall Bekasi, Metrpolitan Mall Bekasi, Mega Bekasi Hypermall, dll.
+√ Fasilitas Pendidikan:
+Sekolah Al Azhar, Sekolah BPK Penabur Bekasi, Kampus BINUS, dll.
+√ Transportasi Umum;
+Stasiun Kereta Api Bekasi
+√ Fasilitas Kesehatan;
+RS Mitra Keluarga, RS Hermina, dll.
+
+Informasi pemesanan Unit Kingspoint Private Residences bisa mengunjungi booth pameran kami di event 
+Home Living Expo
+stand F1 Atrium 1 Metropolitan Mall Bekasi 
+tanggal 30 November - 12 Desember 2021,
+
+Atau dapat menghubungi tim marketing kami di 
+nomor telepon (021) 8923 4888 
+atau via Whatsapp 0812 2222 8301
+
+Ada banyak promo special & menguntungkan yang Anda bisa peroleh selama pameran berlangsung diantaranya :
+
+√ FREE PPN 10%*
+√ FREE Motor Matic*
+√ FREE AC Split 1/2PK 3 unit*
+√ FREE Canopy*
+
+Promo Terbatas!!
+
+#beliRUMAHjadiMURAH
+
+*Syarat & Ketentuan Berlaku
+
+
+Instagram : @kingspointresidences

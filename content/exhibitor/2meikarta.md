@@ -8,4 +8,19 @@ draft: false
 
 #### MEIKARTA
 
-PAMERAN HOME LIVING EXPO 7 @METROPOLITAN MALL BEKASI 30 NOV - 12 DES 2021
+"HOME LIVING EXPO"
+Metropolitan Mall Bekasi, 30 November - 12 Desember 2021
+
+
+Pengen punya tempat tinggal yang nyaman tapi juga asyik dan seru banget dipakai buat kerja?
+Atau lagi nyari tempat untuk memulai atau ekspansi bisnis?
+Meikarta SOHO dan Meikarta Plaza adalah solusi yang paling PAS untuk anda. 
+
+Terletak di District 1 Meikarta yang premium dan lengkap fasilitasnya, Meikarta SOHO menjamin kualitas hidup termasuk work life balance kamu dan Meikarta Plaza adalah tempat usaha yang memiliki captive market hingga 10.000 dari penghuni dan pengunjung yang hadir. 
+
+Di bulan November 2021, kesempatan emas untuk anda miliki Meikarta SOHO atau Meikarta Plaza! Karena hanya dengan Rp 349 Juta, Anda berhak mendapatkan 5x CUAN untuk unit Meikarta SOHO atau Meikarta Plaza. Penasaran apa aja 5x Cuan? Dapatkan Cashback, Gratis IPL, Bebas PPN, Cicilan Panjang dan berbagai cara bayar menarik lainnya.
+
+Untuk informasi lebih detail, segera kunjungi booth Meikarta
+
+
+Instagram : @themeikarta

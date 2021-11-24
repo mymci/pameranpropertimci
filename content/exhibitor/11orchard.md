@@ -8,4 +8,20 @@ draft: false
 
 #### ORCHARD GARDEN
 
-PAMERAN HOME LIVING EXPO 7 @METROPOLITAN MALL BEKASI 30 NOV - 12 DES 2021
+"HOME LIVING EXPO"
+Metropolitan Mall Bekasi, 30 November - 12 Desember 2021
+
+Mau punya rumah di Bekasi hanya Rp1.000.000,- ? 
+Yukk hanya di Orchard Garden 2,  rumah impian keluarga menjadi kenyataan
+
+Kunjungi booth kami @orchard.garden 
+di Metropolitan Mall Bekasi
+30 November – 12 Desember 2021
+untuk mendapatkan informasi lebih lanjut 
+atau bisa hubungi tim kami :
+Andi - 0815 1405 8978
+Gatot - 0881 5631 037
+Hakim - 0813 1102 5609
+
+
+Instagram : @orchard.garden

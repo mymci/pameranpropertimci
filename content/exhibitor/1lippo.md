@@ -8,4 +8,22 @@ draft: false
 
 #### LIPPO CIKARANG
 
-PAMERAN HOME LIVING EXPO 7 @METROPOLITAN MALL BEKASI 30 NOV - 12 DES 2021
+"HOME LIVING EXPO"
+Metropolitan Mall Bekasi, 30 November - 12 Desember 2021
+
+
+Introducing the new epicenter of lifestyle hub in Lippo Cikarang Township, The Hive @ Uptown!
+
+With Triple Key Concept, maximize your benefit in one place.
+Limited units available, unlimited opportunities ahead.
+
+Book now!
+Click the link in bio for more info.
+
+
+Instagram : @waterfrontestateslc
+
+#TheNewLifestyle
+#TheNewCommercialScene
+#hivecommercials
+
