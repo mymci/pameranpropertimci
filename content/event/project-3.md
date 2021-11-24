@@ -1,6 +1,7 @@
 ---
 title: "Home Living Expo 7"
 date: "1/1/2019"
+periode: "2022"
 image: "images/event/expometmal8.png"
 client: "MCI Management"
 
