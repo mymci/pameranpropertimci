@@ -1,11 +1,11 @@
 ---
-title: "SUMMARECON BEKASI"
-date: 2019-05-12T12:14:34+06:00
-image: "images/exhibitor/summareconbekasi.jpg"
+title: "HARVEST CITY   "
+date: 2021-11-16
+image: "images/exhibitor/harvestcity.jpg"
 description: "This is meta description."
 draft: false
 ---
 
-#### SUMMARECON BEKASI
+#### HARVEST CITY   
 
 PAMERAN HOME LIVING EXPO 7 @METROPOLITAN MALL BEKASI 30 NOV - 12 DES 2021

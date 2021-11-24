@@ -1,11 +1,11 @@
 ---
-title: "MEIKARTA"
-date: 2019-05-12T12:14:34+06:00
-image: "images/exhibitor/meikarta.jpg"
+title: "SUMMARECON BEKASI"
+date: 2021-11-22
+image: "images/exhibitor/summareconbekasi.jpg"
 description: "This is meta description."
 draft: false
 ---
 
-#### MEIKARTA
+#### SUMMARECON BEKASI
 
 PAMERAN HOME LIVING EXPO 7 @METROPOLITAN MALL BEKASI 30 NOV - 12 DES 2021
