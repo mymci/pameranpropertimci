@@ -3,6 +3,14 @@ title: "NUANSA PONDOK KELAPA"
 date: 2021-11-20
 image: "images/exhibitor/nuansapondokkelapa.jpg"
 description: "This is meta description."
+imagepost: "images/post/mm_nuansapondokkelapa1.jpg"
+imagepost1: "images/post/.jpg"
+imagepost2: "images/post/.jpg"
+imagepost3: "images/post/.jpg"
+imagepost4: "images/post/.jpg"
+imagepost5: "images/post/.jpg"
+imagepost6: "images/post/.jpg"
+imagepost7: "images/post/.jpg"
 draft: false
 ---
 

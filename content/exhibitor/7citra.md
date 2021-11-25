@@ -3,6 +3,10 @@ title: "CIPUTRA CITRALAND CIBUBUR"
 date: 2021-11-18
 image: "images/exhibitor/citralandcibubur.jpg"
 description: "This is meta description."
+imagepost: "images/post/mm_ciputracitralandcibubur1.jpg"
+imagepost1: "images/post/mm_ciputracitralandcibubur2.jpg"
+imagepost2: "images/post/mm_ciputracitralandcibubur3.jpg"
+imagepost3: "images/post/mm_ciputracitralandcibubur4.jpg"
 draft: false
 ---
 

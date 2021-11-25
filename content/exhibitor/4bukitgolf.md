@@ -1,12 +1,21 @@
 ---
-title: "BUKIT GOLF PODOMORO"
+title: "BUKIT PODOMORO JAKARTA"
 date: 2021-11-21
 image: "images/exhibitor/bukitgolfpodomoro.jpg"
 description: "This is meta description."
+imagepost: "images/post/mm_bukitpodomoro1.jpg"
+imagepost1: "images/post/mm_bukitpodomoro2.jpg"
+imagepost2: "images/post/mm_bukitpodomoro3.jpg"
+imagepost3: "images/post/mm_bukitpodomoro4.jpg"
+imagepost4: "images/post/mm_bukitpodomoro5.jpg"
+imagepost5: "images/post/mm_bukitpodomoro6.jpg"
+imagepost6: "images/post/mm_bukitpodomoro7.jpg"
+imagepost7: "images/post/mm_bukitpodomoro8.jpg"
+imagepost7: "images/post/mm_bukitpodomoro9.jpg"
 draft: false
 ---
 
-#### BUKIT GOLF PODOMORO
+#### BUKIT PODOMORO JAKARTA
 
 "HOME LIVING EXPO"
 Metropolitan Mall Bekasi, 30 November - 12 Desember 2021

@@ -13,9 +13,102 @@
           <div class="content">
             {{.Content }}
           </div>
+      <!-- Image Post-->
+      <div class="container col-lg-12">
+        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+          <!-- Indicators -->
+          <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+            <li data-target="#myCarousel" data-slide-to="3"></li>
+            <li data-target="#myCarousel" data-slide-to="4"></li>
+          </ol>
+      
+          <!-- Wrapper for slides -->
+          <div class="carousel-inner">
+            <div class="item active">
+              <img src="{{.Params.imagepost | absURL }}" alt="" style="width:100%;">
+            </div>
+            <br>
+            <div class="item">
+              <img src="{{.Params.imagepost1 | absURL }}" alt="" style="width:100%;">
+            </div>
+            <br>
+            <div class="item">
+              <img src="{{.Params.imagepost2 | absURL }}" alt="" style="width:100%;">
+            </div>
+            <br>
+            <div class="item">
+              <img src="{{.Params.imagepost3 | absURL }}" alt="" style="width:100%;">
+            </div>
+            <br>
+            <div class="item">
+              <img src="{{.Params.imagepost4 | absURL }}" alt="" style="width:100%;">
+            </div>
+            <br>
+            <div class="item">
+              <img src="{{.Params.imagepost5 | absURL }}" alt="" style="width:100%;">
+            </div>
+      
+            <br>
+            <div class="item">
+              <img src="{{.Params.imagepost6 | absURL }}" alt="" style="width:100%;">
+            </div>
+            <br>
+            <div class="item">
+              <img src="{{.Params.imagepost7 | absURL }}" alt="" style="width:100%;">
+            </div>
+            <br>
+            <div class="item">
+              <img src="{{.Params.imagepost8 | absURL }}" alt="" style="width:100%;">
+            </div>
+            <br>
+            <div class="item">
+              <img src="{{.Params.imagepost9 | absURL }}" alt="" style="width:100%;">
+            </div>
+            <br>
+            <div class="item">
+              <img src="{{.Params.imagepost10 | absURL }}" alt="" style="width:100%;">
+            </div>
+            <br>
+            <div class="item">
+              <img src="{{.Params.imagepost11 | absURL }}" alt="" style="width:100%;">
+            </div>
+            <br>
+            <div class="item">
+              <img src="{{.Params.imagepost12 | absURL }}" alt="" style="width:100%;">
+            </div>
+            <br>
+            <div class="item">
+              <img src="{{.Params.imagepost13 | absURL }}" alt="" style="width:100%;">
+            </div>
+            <br>
+            <div class="item">
+              <img src="{{.Params.imagepost14 | absURL }}" alt="" style="width:100%;">
+            </div>
+            <br>
+            <div class="item">
+              <img src="{{.Params.imagepost15 | absURL }}" alt="" style="width:100%;">
+            </div>
+          </div>
+      
+          <!-- Left and right controls -->
+          <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="right carousel-control" href="#myCarousel" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right"></span>
+            <span class="sr-only">Next</span>
+          </a>
         </div>
       </div>
-    </div>
-  </section>
-
-{{ end }}
+      <!-- End Image-->
+      
+      </div>
+      </div>
+      </section>
+      
+      
+      {{ end }}

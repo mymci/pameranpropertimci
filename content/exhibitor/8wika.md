@@ -3,6 +3,14 @@ title: "TAMANSARI ISWARA APARTMENT"
 date: 2021-11-17
 image: "images/exhibitor/tamansariiswara.jpg"
 description: "This is meta description."
+imagepost: "images/post/mm_tamansariiswara1.jpg"
+imagepost1: "images/post/.jpg"
+imagepost2: "images/post/.jpg"
+imagepost3: "images/post/.jpg"
+imagepost4: "images/post/.jpg"
+imagepost5: "images/post/.jpg"
+imagepost6: "images/post/.jpg"
+imagepost7: "images/post/.jpg"
 draft: false
 ---
 

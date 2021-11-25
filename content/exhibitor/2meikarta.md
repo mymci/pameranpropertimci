@@ -3,6 +3,14 @@ title: "MEIKARTA"
 date: 2021-11-23
 image: "images/exhibitor/meikarta.jpg"
 description: "This is meta description."
+imagepost: "images/post/mm_meikarta1.jpg"
+imagepost1: "images/post/mm_meikarta2.jpg"
+imagepost2: "images/post/mm_meikarta3.jpg"
+imagepost3: "images/post/mm_meikarta4.jpg"
+imagepost4: "images/post/.jpg"
+imagepost5: "images/post/.jpg"
+imagepost6: "images/post/.jpg"
+imagepost7: "images/post/.jpg"
 draft: false
 ---
 
