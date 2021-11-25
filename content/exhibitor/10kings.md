@@ -3,7 +3,7 @@ title: "KINGSPOINT PRIVATE RESIDENCES"
 date: 2021-11-16
 image: "images/exhibitor/kingspoint.jpg"
 description: "This is meta description."
-imagepost: "images/post/mm_kingspoint1.jpg"
+imagepost: "images/post/mm_kingspoint1.jpeg"
 imagepost1: "images/post/.jpg"
 imagepost2: "images/post/.jpg"
 imagepost3: "images/post/.jpg"
