@@ -3,14 +3,14 @@ title: "ORCHARD GARDEN"
 date: 2021-11-16
 image: "images/exhibitor/orchardgarden.jpg"
 description: "This is meta description."
-imagepost: "images/post/mm_orchardgarden1.jpg"
-imagepost1: "images/post/mm_orchardgarden2.jpg"
-imagepost2: "images/post/mm_orchardgarden3.jpg"
-imagepost3: "images/post/mm_orchardgarden4.jpg"
-imagepost4: "images/post/mm_orchardgarden5.jpg"
-imagepost5: "images/post/mm_orchardgarden6.jpg"
-imagepost6: "images/post/mm_orchardgarden7.jpg"
-imagepost7: "images/post/mm_orchardgarden8.jpg"
+imagepost: "images/post/mm_orchardgarden1.jpeg"
+imagepost1: "images/post/mm_orchardgarden2.jpeg"
+imagepost2: "images/post/mm_orchardgarden3.jpeg"
+imagepost3: "images/post/mm_orchardgarden4.jpeg"
+imagepost4: "images/post/mm_orchardgarden5.jpeg"
+imagepost5: "images/post/mm_orchardgarden6.jpeg"
+imagepost6: "images/post/mm_orchardgarden7.jpeg"
+imagepost7: "images/post/mm_orchardgarden8.jpeg"
 draft: false
 ---
 
