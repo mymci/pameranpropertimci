@@ -11,7 +11,7 @@ imagepost4: "images/post/mm_bukitpodomoro5.jpg"
 imagepost5: "images/post/mm_bukitpodomoro6.jpg"
 imagepost6: "images/post/mm_bukitpodomoro7.jpg"
 imagepost7: "images/post/mm_bukitpodomoro8.jpg"
-imagepost7: "images/post/mm_bukitpodomoro9.jpg"
+imagepost8: "images/post/mm_bukitpodomoro9.jpg"
 draft: false
 ---
 

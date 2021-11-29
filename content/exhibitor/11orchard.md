@@ -10,7 +10,7 @@ imagepost3: "images/post/mm_orchardgarden4.jpeg"
 imagepost4: "images/post/mm_orchardgarden5.jpeg"
 imagepost5: "images/post/mm_orchardgarden6.jpeg"
 imagepost6: "images/post/mm_orchardgarden7.jpeg"
-imagepost7: "images/post/mm_orchardgarden8.jpeg"
+imagepost7: "images/post/"
 draft: false
 ---
 
